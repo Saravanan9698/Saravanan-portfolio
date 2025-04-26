@@ -1,5 +1,3 @@
-# saravanan-portfolio
-
 <h1 align="center">✨ Saravanan — Data Science Enthusiast | AI Explorer | LLM Innovator ✨</h1>
 
 <p align="center">
