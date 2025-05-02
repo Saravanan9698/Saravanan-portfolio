@@ -115,7 +115,6 @@
     <h3><i><strong>Certifications</strong></i></h3>
     <p>GUVI - IITM Pravartak Master Data Science Certification</p>
     <p>HCL Skill-Up - Data Science</p>
-    <p>IBM - Data Science Professional Certificate</p>
 
     <h3><i><strong>Professional Experience</strong></i></h3>
     <div style="display: flex; justify-content: space-between;">
@@ -143,7 +142,7 @@
   <div id="repos"></div>
 
   <script>
-    const username = "saravananits4";
+    const username = "Saravanan9698";
     const repoContainer = document.getElementById("repos");
 
     fetch(`https://api.github.com/users/${username}/repos?sort=updated`)
