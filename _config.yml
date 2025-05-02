@@ -1,5 +1,14 @@
 <html lang="en">
-<head>
+
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
+    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+
+# <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -96,7 +105,7 @@
 <body>
 
   <div class="hero">
-    <h1><i>Saravanan S</i></h1>
+    <h1><i>Saravanan M</i></h1>
     <p><i><strong><h3>About Me</h3></strong></i>
       Data Science enthusiast with a background in healthcare operations and hands-on experience in Python, SQL, Machine Learning, and end-to-end project development. Passionate about building intelligent systems that make real-world impact across healthcare, finance, and e-commerce domains.
     </p>
