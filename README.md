@@ -1,66 +1,169 @@
-<h1 align="center">✨ Saravanan — Data Science Enthusiast | AI Explorer | LLM Innovator ✨</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+  <title>Saravanan Portfolio</title>
+  <style>
+    body {
+      font-family: "Poppins", sans-serif;
+      padding: 2rem;
+      background: #A08963;
+      max-width: 900px;
+      margin: auto;
+    }
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-blueviolet?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-E34F26?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+    h1 {
+      color: #000000;
+    }
 
-<p align="center">
-  👋 Hello! I’m <strong>Saravanan</strong>, a passionate Data Science enthusiast with a solid foundation in <strong>Physics (B.Sc., St. Joseph’s College, 2023)</strong> and 1.5 years of professional experience in <strong>Healthcare Operations</strong> at Omega Healthcare.
-  <br>I specialize in building intelligent ML/AI applications that create real-world impact. Always learning, always building. 🚀
-</p>
+    h2 {
+      color: #f6f6f6;
+    }
 
----
+    .hero {
+      background: #F2EFE7;
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgb(92, 92, 92);
+      margin-bottom: 2rem;
+    }
 
-<h2>🛠️ Technical Toolbox</h2>
+    .hero h1 {
+      margin-top: 0;
+      font-size: 2rem;
+    }
 
-<ul>
-  <li>💻 Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Keras</li>
-  <li>🧠 ML/DL, Computer Vision (YOLOv5), NLP (SpaCy, NLTK, LLMs)</li>
-  <li>📊 Data Visualization — Matplotlib, Seaborn, Plotly</li>
-  <li>🌐 Streamlit Apps, MLflow, FastAPI (Basics), Git, VSCode</li>
-</ul>
+    .hero p {
+      line-height: 1.6;
+    }
 
----
+    .contact-links {
+      text-align: center;
+      margin-left: 20px;
+    }
 
-<h2>📁 Projects I've Built</h2>
+    .contact-links h3 {
+      margin-bottom: 10px;
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: #333;
+    }
 
-- 🏥 <strong>Healthcare:</strong> Disease Detection using YOLO, Mental Health Prediction App  
-- 💰 <strong>Finance:</strong> Insurance Cost Prediction using Regression  
-- 🛒 <strong>E-commerce:</strong> Customer Conversion Prediction with Clickstream Data  
-- 🤖 <strong>LLM & GenAI:</strong> Chatbot AI & AskDocs AI (Document Q&A using RAG + LLaMA 2)
+    .contact-links .links a {
+      margin-right: 20px;
+      text-decoration: none;
+      font-size: 1.2rem;
+      color: #00cffd;
+    }
 
----
+    .contact-links .links a:hover {
+      color: #007bff;
+    }
 
-<h2>📜 Certifications</h2>
+    .repo {
+      background: #F2EFE7;
+      margin: 1rem 0;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgb(92, 92, 92);
+    }
 
-- 🏅 GUVI Master Data Science Programme  
-- 🧠 HCL Skill-Up Data Science Track
+    .repo a {
+      font-size: 1.2rem;
+      font-weight: bold;
+      color: #000000;
+      text-decoration: none;
+    }
 
----
+    .repo p {
+      margin: 0.5rem 0 0;
+    }
 
-<h2>🔍 What I'm Currently Exploring</h2>
+    .repo:hover {
+      background: #493628;
+      color: #ffffff;
+    }
 
-- 🔎 Retrieval-Augmented Generation (RAG)  
-- 🧪 Fine-tuning LLMs like LLaMA 2  
-- 🚀 Deploying scalable AI/ML solutions
+    .repo:hover a,
+    .repo:hover p {
+      color: #ffffff;
+    }
+  </style>
+</head>
+<body>
 
----
+  <div class="hero">
+    <h1><i>Saravanan S</i></h1>
+    <p><i><strong><h3>About Me</h3></strong></i>
+      Data Science enthusiast with a background in healthcare operations and hands-on experience in Python, SQL, Machine Learning, and end-to-end project development. Passionate about building intelligent systems that make real-world impact across healthcare, finance, and e-commerce domains.
+    </p>
 
-<h2>📫 Connect With Me</h2>
+    <h3><i><strong>Technical Skills</strong></i></h3>
+    <p><i><strong>Programming Language - </strong></i>Python, SQL</p>
+    <p><i><strong>Data Analysis & Wrangling - </strong></i>Pandas, NumPy, Data Cleaning, Feature Engineering</p>
+    <p><i><strong>Machine Learning - </strong></i>Scikit-learn, XGBoost, Random Forest, Logistic Regression, Decision Trees, Hyperparameter Tuning</p>
+    <p><i><strong>Deep Learning - </strong></i>TensorFlow, Keras (DNN, CNN)</p>
+    <p><i><strong>NLP & Gen AI - </strong></i>Text Preprocessing, RAG, LLaMA 2, LangChain, LlamaIndex</p>
+    <p><i><strong>Visualization - </strong></i>Matplotlib, Seaborn, Plotly, Power BI</p>
+    <p><i><strong>Deployment & Tools - </strong></i>Streamlit, MLflow, Git, Jupyter Notebook</p>
+    <p><i><strong>Databases & Cloud - </strong></i>MySQL, PostgreSQL, AWS</p>
 
-<p>
-  <a href="mailto:saravananits4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/itssaravanan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/itssaravanan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
+    <h3><i><strong>Certifications</strong></i></h3>
+    <p>GUVI - IITM Pravartak Master Data Science Certification</p>
+    <p>HCL Skill-Up - Data Science</p>
+    <p>IBM - Data Science Professional Certificate</p>
 
----
+    <h3><i><strong>Professional Experience</strong></i></h3>
+    <div style="display: flex; justify-content: space-between;">
+      <p><i>Omega Healthcare Management Services <br> Process Executive</i></p>
+      <p><i>Trichy, India <br> July 2023 - Sep 2024</i></p>
+    </div>
+    <p>
+      &bull; Processed and analyzed healthcare claims data to identify trends and optimize workflows.<br>
+      &bull; Automated data entry and reporting tasks using Python, improving operational efficiency.<br>
+      &bull; Collaborated with QA team to ensure HIPAA compliance in data handling.<br>
+    </p>
 
-<p align="center">
-  🧠 “The best way to predict the future is to create it.” <br>
-  <strong>Let's collaborate and build impactful data-driven projects!</strong> 💡
-</p>
+    <div class="contact-links">
+      <h3>Contact Me!</h3>
+      <div class="links">
+        <a href="mailto:saravananits4@gmail.com">📧 Email</a>
+        <a href="https://www.linkedin.com/in/itssaravanan" target="_blank">🔗 LinkedIn</a>
+        <a href="https://github.com/saravananits4" target="_blank">💻 GitHub</a>
+        <a href="https://drive.google.com/file/d/1_9322qNF99xZrEu0DvAkDj8JzhYVf_yQ/preview" target="_blank">📄 Resume</a>
+      </div>
+    </div>
+  </div>
+
+  <h2><i>My GitHub Projects</i></h2>
+  <div id="repos"></div>
+
+  <script>
+    const username = "saravananits4";
+    const repoContainer = document.getElementById("repos");
+
+    fetch(`https://api.github.com/users/${username}/repos?sort=updated`)
+      .then(response => response.json())
+      .then(data => {
+        data.forEach(repo => {
+          const div = document.createElement("div");
+          div.className = "repo";
+          div.innerHTML = `
+            <a href="${repo.html_url}" target="_blank">${repo.name}</a>
+            <p>${repo.description || "No description available."}</p>
+          `;
+          repoContainer.appendChild(div);
+        });
+      })
+      .catch(error => {
+        repoContainer.innerHTML = `<p>Failed to fetch repositories. Try again later.</p>`;
+        console.error("Error fetching repos:", error);
+      });
+  </script>
+
+</body>
+</html>
