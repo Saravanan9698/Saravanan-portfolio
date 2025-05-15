@@ -1,14 +1,7 @@
+<!DOCTYPE html>
 <html lang="en">
-
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
-    <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
-
-# <head>
+<head>
+  
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -29,7 +22,7 @@
     }
 
     h2 {
-      color: #f6f6f6;
+      color: #f6f6f6
     }
 
     .hero {
@@ -50,8 +43,8 @@
     }
 
     .contact-links {
-      text-align: center;
-      margin-left: 20px;
+    text-align: center;
+    margin-left: 20px;
     }
 
     .contact-links h3 {
@@ -69,7 +62,7 @@
     }
 
     .contact-links .links a:hover {
-      color: #007bff;
+      color: #007bff; 
     }
 
     .repo {
@@ -92,14 +85,17 @@
     }
 
     .repo:hover {
-      background: #493628;
-      color: #ffffff;
+    background: #493628;
+    color: #ffffff;
     }
 
     .repo:hover a,
     .repo:hover p {
       color: #ffffff;
     }
+
+
+
   </style>
 </head>
 <body>
