@@ -40,7 +40,7 @@ I’m passionate about crafting intelligent systems and building AI-powered appl
 | **📈 Insurance Cost Prediction** | ML-powered app to forecast insurance premium using user profiles | Scikit-learn, Streamlit, MLflow |
 | **🫁 Disease Detection with X-rays** | YOLOv5-based image analysis to detect chest conditions | YOLOv5, OpenCV, Streamlit |
 
-👉 Explore the **Projects** section on this repo or my [portfolio website]([https://saravananportfolio.com](https://saravanan9698.github.io/Saravanan.Github.io/)) for demos and source code.
+👉 Explore the **Projects** section on this repo or my ([https://saravananportfolio.com)](https://saravanan9698.github.io/Saravanan.Github.io/) for demos and source code.
 
 ---
 
