@@ -7,9 +7,9 @@ Welcome to my GitHub Portfolio! I'm **Saravanan M**, an IITM Pravartak GUVI Cert
 ## 💼 About Me
 
 - 🎓 **Certification**: GUVI - IITM Pravartak Master Data Science Program  
-- 💻 **Background**: 1.5+ years in healthcare operations with end-to-end project experience in ML & DL  
+- 💻 **Background**: 1.3+ years in healthcare operations with end-to-end project experience in ML & DL  
 - 📍 **Location**: Trichy, Tamil Nadu, India  
-- 🌐 **Portfolio Website**: [saravananportfolio.com]([https://saravananportfolio.com)](https://saravanan9698.github.io/Saravanan.Github.io/)
+- 🌐 **Portfolio Website**: ([https://saravananportfolio.com)](https://saravanan9698.github.io/Saravanan.Github.io/)
 
 I’m passionate about crafting intelligent systems and building AI-powered applications that create measurable impact.
 
