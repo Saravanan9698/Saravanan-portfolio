@@ -49,7 +49,7 @@ I’m passionate about crafting intelligent systems and building AI-powered appl
 - 📧 Email: [saravananits4@gmail.com](mailto:saravananits4@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/itssaravanan](https://www.linkedin.com/in/itssaravanan)
 - 💻 GitHub: [github.com/Saravanan9698](https://github.com/Saravanan9698)
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1b6xK3WlTyHiJzZiJXBXkVrn2ediQgvAQ/view?usp=sharing)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1b6xK3WlTyHiJzZiJXBXkVrn2ediQgvAQ/view?usp=drive_link)
 
 ---
 
